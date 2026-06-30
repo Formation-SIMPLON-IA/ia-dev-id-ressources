@@ -1,0 +1,57 @@
+# Ressources publiques — Parcours IA Dev-id
+
+> Repo `ia-dev-id-ressources` — ressources transverses, partagées entre tous les
+> briefs du parcours **« Concevoir et implémenter une solution d'IA »**
+> (CISIA / OPCO ATLAS, Parcours 2 — Professionnels IT).
+
+Ce repo est complémentaire des repos de briefs `ia-dev-id-parcours-*`, qui
+contiennent chacun le squelette de code et les mini-cours d'un brief.
+
+> 📌 Ce repo grandit **au rythme des modules**. Ce qui est présent ci-dessous
+> couvre le **socle transverse + la transition M0 → M1**. Les fiches-patterns,
+> cheatsheets, canevas de consolidation et étagères async de chaque module
+> seront ajoutés **quand la promo ouvrira le module concerné**. Fais `git pull`
+> au début de chaque module.
+
+---
+
+## 📁 Contenu
+
+| Fichier | Quand le mobiliser ? |
+|---|---|
+| [`00_competences_referentiels.md`](./00_competences_referentiels.md) | **Source de vérité des compétences** — 9 C techniques (CISIA) + 9 CT transversales (OPCO ATLAS) avec intitulés officiels, niveaux Simplon et mapping par module. À garder sous la main pendant tout le parcours. |
+| [`glossaire_IA.md`](./glossaire_IA.md) | **Glossaire vivant** — vocabulaire data/IA démystifié (1-2 lignes/terme), tagué par module, 🎓 sur les termes du questionnaire C1/C2/C4. À garder ouvert dès M0, enrichi à chaque module. |
+| [`recap_M0_vers_M1.md`](./recap_M0_vers_M1.md) | **Pont entre M0 et M1** — cycle ML, technos vues vs à venir, compétences cochées. À lire entre la fin de M0 et le démarrage de M1. |
+| [`conventions_commit.md`](./conventions_commit.md) | **Format des messages de commit** — type, scope, description + exemples. À garder ouvert pendant les briefs avec rendu Git. |
+| [`canvas-cas-usage-v2.ipynb`](./canvas-cas-usage-v2.ipynb) | **Trame du notebook certif M9** — à utiliser comme grille de référence dès M0, sections ouvertes module par module (cf. tableau « Mobilisation » à l'intérieur). |
+| [`matrice-notebook-initiale.ipynb`](./matrice-notebook-initiale.ipynb) | **Matrice initiale du notebook** — version brute distribuée en amont, à mettre en regard du canvas pour comprendre l'évolution attendue. |
+| [`journal-de-bord.ipynb`](./journal-de-bord.ipynb) | **Journal quotidien** à tenir au fil du parcours — sera fusionné avec le canvas en M9. |
+
+---
+
+## 🚀 Utilisation pour les apprenants
+
+1. **Clone ce repo une fois**, ou utilise les liens directs partagés par la formatrice.
+2. **Garde [`00_competences_referentiels.md`](./00_competences_referentiels.md)
+   ouvert dès le démarrage** — il te dit où tu vas et quelles compétences tu
+   travailles à quel niveau.
+3. **Récupère le canvas** dans ton repo perso au démarrage de M0 — tu l'enrichis
+   au fur et à mesure que les modules avancent (sections à ouvrir selon le module
+   en cours).
+4. **Tiens le journal de bord** au quotidien : 1 entrée par jour de formation,
+   pas plus de 10 lignes — actions du jour, difficultés, prochain pas.
+5. **En M9** : fusion automatique du canvas et du journal en un seul notebook certif.
+
+---
+
+## 🔄 Mise à jour
+
+Ce repo évolue **module par module**. `git pull` au début de chaque module pour
+récupérer les nouvelles fiches, cheatsheets et canevas de consolidation.
+
+---
+
+## 📜 Licence & statut
+
+Repo de travail pédagogique, usage interne formation Dev-id (parcours CISIA
+Pro IT). Pour toute réutilisation extérieure, contacter la formatrice.
