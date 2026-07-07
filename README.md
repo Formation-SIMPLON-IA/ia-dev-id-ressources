@@ -35,6 +35,23 @@ b| [`aide_memoire_M1.pdf`](./aide_memoire_M1.pdf) | **Aide-mémoire M1 (une page
 
 ---
 
+## 📄 Série ML — aide-mémoires une page
+
+Une collection de **12 aide-mémoires format une page**, un par grand geste du
+parcours, à imprimer et garder sous les yeux. Chaque fiche synthétise un
+concept clé : workflow, métriques, pièges, correctif. Elles sont publiées
+**au fil des modules** — cette section grandit à chaque nouveau lot.
+
+| Fiche | Titre | Module | Statut |
+|---|---|---|---|
+| 5/12 | [`aide_memoire_M1.pdf`](./aide_memoire_M1.pdf) — Entraîner & évaluer un modèle proprement | M1 | ✅ disponible |
+| autres | Publiées au rythme des modules | M0 → M9 | 🔜 à venir |
+
+> 🔜 Les prochaines fiches de la série apparaîtront ici et dans le tableau
+> « Contenu » ci-dessus dès qu'elles sont prêtes. `git pull` en début de module.
+
+---
+
 ## 🚀 Utilisation pour les apprenants
 
 1. **Clone ce repo une fois**, ou utilise les liens directs partagés par la formatrice.
