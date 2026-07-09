@@ -30,9 +30,9 @@ b| [`aide_memoire_M1.pdf`](./aide_memoire_M1.pdf) | **Aide-mémoire M1 (une page
 | [`fiche_pattern_ML_supervise.md`](./fiche_pattern_ML_supervise.md) | **Fiche-pattern du geste ML supervisé** — les étapes d'un pipeline d'apprentissage supervisé (split → entraînement → évaluation), le geste C5 travaillé dès **M1-B1**. Référence de consolidation post-brief. |
 | [`galerie_reentrainement/`](./galerie_reentrainement/) | **Étagère async optionnelle post-M1-B1** — 4 notebooks à autonomie croissante (🟢 résolu → 🟠 à trous → 🔴 énoncé seul) pour **rejouer le pattern d'entraînement** sur d'autres domaines et types de problème (classification, régression, multiclasse). Datasets sklearn embarqués. Pas de livrable, pas de note — juste de la répétition pour ancrer C5. À ouvrir après M1-B1. |
 | [`cheatsheet_metriques.md`](./cheatsheet_metriques.md) | **Cheatsheet métriques d'évaluation** — quelle métrique pour quel problème, comment la lire, le piège à éviter. Transverse **M1 → M9** (classification déséquilibrée en M1, régression M4, exploitation M6). 🎓 sur les métriques du questionnaire certif C4. |
-| [`canvas-cas-usage-v2.ipynb`](./canvas-cas-usage-v2.ipynb) | **Trame du notebook certif M9** — à utiliser comme grille de référence dès M0, sections ouvertes module par module (cf. tableau « Mobilisation » à l'intérieur). |
-| [`matrice-notebook-initiale.ipynb`](./matrice-notebook-initiale.ipynb) | **Matrice initiale du notebook** — version brute distribuée en amont, à mettre en regard du canvas pour comprendre l'évolution attendue. |
-| [`journal-de-bord.ipynb`](./journal-de-bord.ipynb) | **Journal quotidien** à tenir au fil du parcours — sera fusionné avec le canvas en M9. |
+| [`canvas-cas-usage-v2.ipynb`](./cas_usage_certif/canvas-cas-usage-v2.ipynb) | **Trame du notebook certif M9** — à utiliser comme grille de référence dès M0, sections ouvertes module par module (cf. tableau « Mobilisation » à l'intérieur). |
+| [`matrice-notebook-initiale.ipynb`](./cas_usage_certif/matrice-notebook-initiale.ipynb) | **Matrice initiale du notebook** — version brute distribuée en amont, à mettre en regard du canvas pour comprendre l'évolution attendue. |
+| [`journal-de-bord.ipynb`](./cas_usage_certif/journal-de-bord.ipynb) | **Journal quotidien** à tenir au fil du parcours — sera fusionné avec le canvas en M9. |
 
 ---
 

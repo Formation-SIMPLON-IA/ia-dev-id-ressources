@@ -142,8 +142,8 @@ compétences :
 - **Référentiel CISIA** : `Concevoir et implémenter une solution d'IA` (OPCO ATLAS — disponible auprès de la formatrice)
 - **Référentiel CT** : 9 compétences transversales OPCO ATLAS
 - **Niveaux Simplon** : convention pédagogique Simplon
-- **Canvas certif** : [`canvas-cas-usage-v2.ipynb`](./canvas-cas-usage-v2.ipynb)
-- **Journal de bord** : [`journal-de-bord.ipynb`](./journal-de-bord.ipynb)
+- **Canvas certif** : [`canvas-cas-usage-v2.ipynb`](./cas_usage_certif/canvas-cas-usage-v2.ipynb)
+- **Journal de bord** : [`journal-de-bord.ipynb`](./cas_usage_certif/journal-de-bord.ipynb)
 
 ---
 
