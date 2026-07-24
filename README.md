@@ -46,13 +46,15 @@ concept clé : workflow, métriques, pièges, correctif. Elles sont publiées
 
 > 🗺️ **Vue d'ensemble** : [`00_sommaire_serie_ML.pdf`](./00_sommaire_serie_ML.pdf)
 > — la carte des 12 fiches en 5 étapes (cadrer → préparer → entraîner → fiabiliser
-> → industrialiser), avec les statuts ✅ dispo / 🔜 à venir. **6/12 disponibles
+> → industrialiser), avec les statuts ✅ dispo / 🔜 à venir. **8/12 disponibles
 > aujourd'hui** ; les autres arrivent au module indiqué.
 
-Disponibles maintenant : [`cheatsheet_algos_ML_FR.pdf`](./cheatsheet_algos_ML_FR.pdf)
+Disponibles maintenant : [`fiche_choix_famille_ML.pdf`](./fiche_choix_famille_ML.pdf)
+· [`cheatsheet_algos_ML_FR.pdf`](./cheatsheet_algos_ML_FR.pdf)
 · [`fiche_preprocessing.pdf`](./fiche_preprocessing.pdf)
 · [`aide_memoire_M1.pdf`](./aide_memoire_M1.pdf)
 · [`fiche_validation_reglage.pdf`](./fiche_validation_reglage.pdf)
+· [`fiche_biais_variance.pdf`](./fiche_biais_variance.pdf)
 · [`fiche_desequilibre_classes.pdf`](./fiche_desequilibre_classes.pdf)
 · [`fiche_interpretabilite_xai.pdf`](./fiche_interpretabilite_xai.pdf).
 
