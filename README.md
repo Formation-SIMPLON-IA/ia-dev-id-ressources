@@ -30,6 +30,7 @@ b| [`aide_memoire_M1.pdf`](./aide_memoire_M1.pdf) | **Aide-mémoire M1 (une page
 | [`fiche_pattern_ML_supervise.md`](./fiche_pattern_ML_supervise.md) | **Fiche-pattern du geste ML supervisé** — les étapes d'un pipeline d'apprentissage supervisé (split → entraînement → évaluation), le geste C5 travaillé dès **M1-B1**. Référence de consolidation post-brief. |
 | [`galerie_reentrainement/`](./galerie_reentrainement/) | **Étagère async optionnelle post-M1-B1** — 4 notebooks à autonomie croissante (🟢 résolu → 🟠 à trous → 🔴 énoncé seul) pour **rejouer le pattern d'entraînement** sur d'autres domaines et types de problème (classification, régression, multiclasse). Datasets sklearn embarqués. Pas de livrable, pas de note — juste de la répétition pour ancrer C5. À ouvrir après M1-B1. |
 | [`cheatsheet_metriques.md`](./cheatsheet_metriques.md) | **Cheatsheet métriques d'évaluation** — quelle métrique pour quel problème, comment la lire, le piège à éviter. Transverse **M1 → M9** (classification déséquilibrée en M1, régression M4, exploitation M6). 🎓 sur les métriques du questionnaire certif C4. |
+| [`fiche_feuille_de_route_cas_usage.pdf`](./cas_usage_certif/fiche_feuille_de_route_cas_usage.pdf) | **Plan de vol du cas d'usage certif (Bank Marketing)** — les 2 parties (été : phases 1→5 ; rentrée : 6→8), le calendrier, quelle fiche ouvrir à quel moment. À imprimer et garder sous les yeux pendant tout le chantier d'été. |
 | [`canvas-cas-usage-v2.ipynb`](./cas_usage_certif/canvas-cas-usage-v2.ipynb) | **Trame du notebook certif M9** — à utiliser comme grille de référence dès M0, sections ouvertes module par module (cf. tableau « Mobilisation » à l'intérieur). |
 | [`matrice-notebook-initiale.ipynb`](./cas_usage_certif/matrice-notebook-initiale.ipynb) | **Matrice initiale du notebook** — version brute distribuée en amont, à mettre en regard du canvas pour comprendre l'évolution attendue. |
 | [`journal-de-bord.ipynb`](./cas_usage_certif/journal-de-bord.ipynb) | **Journal quotidien** à tenir au fil du parcours — sera fusionné avec le canvas en M9. |
@@ -43,13 +44,20 @@ parcours, à imprimer et garder sous les yeux. Chaque fiche synthétise un
 concept clé : workflow, métriques, pièges, correctif. Elles sont publiées
 **au fil des modules** — cette section grandit à chaque nouveau lot.
 
-| Fiche | Titre | Module | Statut |
-|---|---|---|---|
-| 5/12 | [`aide_memoire_M1.pdf`](./aide_memoire_M1.pdf) — Entraîner & évaluer un modèle proprement | M1 | ✅ disponible |
-| autres | Publiées au rythme des modules | M0 → M9 | 🔜 à venir |
+> 🗺️ **Vue d'ensemble** : [`00_sommaire_serie_ML.pdf`](./00_sommaire_serie_ML.pdf)
+> — la carte des 12 fiches en 5 étapes (cadrer → préparer → entraîner → fiabiliser
+> → industrialiser), avec les statuts ✅ dispo / 🔜 à venir. **6/12 disponibles
+> aujourd'hui** ; les autres arrivent au module indiqué.
 
-> 🔜 Les prochaines fiches de la série apparaîtront ici et dans le tableau
-> « Contenu » ci-dessus dès qu'elles sont prêtes. `git pull` en début de module.
+Disponibles maintenant : [`cheatsheet_algos_ML_FR.pdf`](./cheatsheet_algos_ML_FR.pdf)
+· [`fiche_preprocessing.pdf`](./fiche_preprocessing.pdf)
+· [`aide_memoire_M1.pdf`](./aide_memoire_M1.pdf)
+· [`fiche_validation_reglage.pdf`](./fiche_validation_reglage.pdf)
+· [`fiche_desequilibre_classes.pdf`](./fiche_desequilibre_classes.pdf)
+· [`fiche_interpretabilite_xai.pdf`](./fiche_interpretabilite_xai.pdf).
+
+> 🔜 Les prochaines fiches de la série apparaîtront dans le sommaire dès qu'elles
+> sont prêtes. `git pull` en début de module.
 
 ---
 
