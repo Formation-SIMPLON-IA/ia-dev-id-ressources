@@ -1,6 +1,6 @@
 # Grille de décision C4 — Choisir un modèle IA
 
-> **Livrable pédagogique majeur du parcours ATOS.**
+> **Livrable pédagogique majeur du parcours Dev-id.**
 > **Amorce** posée par la formatrice (Axes 1-2). Les **Axes 3-4, la cartographie
 > et les cas types se construisent COLLECTIVEMENT** en restitution **M4-B1**
 > (mercredi midi), à partir de vos benchmarks et de vos *decision cards*.
@@ -157,10 +157,10 @@ Pour chaque nouveau besoin métier :
 | Version | Semaine | Modifications | Auteur·rice |
 |---|---|---|---|
 | amorce | M4 (avant restit.) | Axes 1-2 posés, reste à trous | Marianne (formatrice) |
-| v1.0 | M4 (restit. B1) | Axes 3-4 + cartographie + cas Bike Sharing construits collectivement | Promo ATOS G1 |
-| v1.1 | M4 (fin) | Ajout cas vision PCB après M4-B2 | Promo ATOS G1 |
-| v2.0 | M7 | Ajout familles foundation models / LLM / RAG | Promo ATOS G1 |
-| v2.1 | M8 | Ajout cas par tirage | Promo ATOS G1 |
+| v1.0 | M4 (restit. B1) | Axes 3-4 + cartographie + cas Bike Sharing construits collectivement | Promo Dev-id |
+| v1.1 | M4 (fin) | Ajout cas vision PCB après M4-B2 | Promo Dev-id |
+| v2.0 | M7 | Ajout familles foundation models / LLM / RAG | Promo Dev-id |
+| v2.1 | M8 | Ajout cas par tirage | Promo Dev-id |
 | v3.0 | À voir | Consolidation finale | — |
 
 > 💡 **La grille n'est jamais terminée.** Chaque cas nouveau enrichit
@@ -180,6 +180,6 @@ Pour chaque nouveau besoin métier :
 
 ---
 
-*Grille pédagogique ATOS — co-construite avec la promo. Amorce Axes 1-2 par
+*Grille pédagogique Dev-id — co-construite avec la promo. Amorce Axes 1-2 par
 Marianne Arrué (formatrice) ; Axes 3-4, cartographie et cas types construits en
-restitution M4-B1 avec la promo G1.*
+restitution M4-B1 avec la promo Dev-id.*
