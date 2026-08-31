@@ -39,6 +39,9 @@ contiennent chacun le squelette de code et les mini-cours d'un brief.
 | [`cheatsheet_mlops_deploiement.md`](./cheatsheet_mlops_deploiement.md) | **Cheatsheet MLOps & déploiement** — la chaîne du commit au réentraînement, et ce que chaque brique DevOps que tu connais déjà devient côté ML. À ouvrir en **M5** (industrialisation) et re-mobiliser en M6. |
 | [`fiche_cycle_vie_donnee.md`](./fiche_cycle_vie_donnee.md) | **Fiche cycle de vie et lignage de la donnée** — le flux collecte → prod → feedback → oubli. Utile en **M3** (provenance) et en **M5**, où tu le documentes dans le runbook. |
 | [`cheatsheet_cloud_hyperscalers.md`](./cheatsheet_cloud_hyperscalers.md) | **Cheatsheet cloud & hyperscalers** — culture : à quoi correspond, chez AWS/Azure/GCP, chaque brique que tu montes en local. À lire en **M5**, hors temps de brief. |
+| [`panorama_modeles_ML.md`](./panorama_modeles_ML.md) | **Carte des familles de modèles** — situer les grandes familles ML/DL, ce que chacune sait faire et ce qu'elle coûte. Compagnon de la grille C4, à ouvrir en **M4** et re-mobiliser en M7-M8. |
+| [`panorama_huggingface_hub.md`](./panorama_huggingface_hub.md) | **Carte du Hub HuggingFace** — comment chercher, lire une fiche de modèle et juger si un modèle pré-entraîné convient. À ouvrir en **M4**, réutilisé quand un modèle sur étagère est envisagé. |
+| [`panorama_genai_llm_rag_agents.md`](./panorama_genai_llm_rag_agents.md) | **Carte GenAI** — situer LLM / SLM / RAG / agents, *quand c'est pertinent et quand c'est du sur-engineering*. Arbre de décision « ai-je besoin de GenAI ? » + glossaire express. Amorcé en **M4-B2**, **central en M7-M8**. |
 | [`canevas_retro_cartographie_M5-B1.md`](./canevas_retro_cartographie_M5-B1.md) | **Canevas de rétro-cartographie M5-B1** — re-dérouler à froid les étapes de la chaîne de production que tu viens de construire. À remplir après **M5-B1**, exploité au RDV du vendredi. |
 | [`fiche_feuille_de_route_cas_usage.pdf`](./cas_usage_certif/fiche_feuille_de_route_cas_usage.pdf) | **Plan de vol du cas d'usage certif (Bank Marketing)** — les 2 parties (été : phases 1→5 ; rentrée : 6→8), le calendrier, quelle fiche ouvrir à quel moment. À imprimer et garder sous les yeux pendant tout le chantier d'été. |
 | [`canvas-cas-usage-v2.ipynb`](./cas_usage_certif/canvas-cas-usage-v2.ipynb) | **Trame du notebook certif M9** — à utiliser comme grille de référence dès M0, sections ouvertes module par module (cf. tableau « Mobilisation » à l'intérieur). |
@@ -67,7 +70,9 @@ Disponibles maintenant : [`fiche_choix_famille_ML.pdf`](./fiche_choix_famille_ML
 · [`fiche_biais_variance.pdf`](./fiche_biais_variance.pdf)
 · [`fiche_desequilibre_classes.pdf`](./fiche_desequilibre_classes.pdf)
 · [`fiche_interpretabilite_xai.pdf`](./fiche_interpretabilite_xai.pdf)
-· [`fiche_notebook_a_prod.pdf`](./fiche_notebook_a_prod.pdf).
+· [`fiche_notebook_a_prod.pdf`](./fiche_notebook_a_prod.pdf)
+· [`fiche_genai_llm_agents.pdf`](./fiche_genai_llm_agents.pdf)
+· [`fiche_techniques_rag.pdf`](./fiche_techniques_rag.pdf).
 
 > 🔜 Les prochaines fiches de la série apparaîtront dans le sommaire dès qu'elles
 > sont prêtes. `git pull` en début de module.
